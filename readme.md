@@ -4,8 +4,7 @@
 
 Radiation pattern moves towards the directors because the reflector pushes the radiation and directors grab those radiations.
 
-![Vertical Pattern](/Images/1.png)
-![Horizontal Pattern](/Images/2.png)
+![Vertical Pattern and the Horzontal Pattern](/Images/1.png)
 
 ### 2. Radiation pattern only with the Driven element
 
@@ -13,8 +12,7 @@ Radiation pattern moves towards the directors because the reflector pushes the r
 
 When there is no reflector and Directors the radiation pattern gets a symmetrical shape.
 
-![Vertical Pattern Without Directors](/Images/4.png)
-![Horizontal Pattern Without Directors](/Images/5.png)
+![Vertical and Horizontal Patterns Without Directors](/Images/2.png)
 
 ### 3. Radiation Pattern with Driven element and the Reflector
 
@@ -22,8 +20,7 @@ When there is no reflector and Directors the radiation pattern gets a symmetrica
 
 When a reflector is added to the antenna, the radiation moves to the other side from the driven element because it pushes the radiation.
 
-![Vertical Pattern With Reflector](/Images/7.png)
-![Horizontal Pattern With Reflector](/Images/8.png)
+![Vertical and Horizontal Patterns With Reflector](/Images/3.png)
 
 ### 4. Radiation Pattern with Driven element and Directors
 
@@ -31,8 +28,7 @@ When a reflector is added to the antenna, the radiation moves to the other side 
 
 When we add directors, the radiation intensity of that area gets increased.
 
-![Vertical Pattern With Directors](URL_TO_VERTICAL_PATTERN_WITH_DIRECTORS_IMAGE)
-![Horizontal Pattern With Directors](URL_TO_HORIZONTAL_PATTERN_WITH_DIRECTORS_IMAGE)
+![Vertical and Horizontal Patterns With Directors](/Images/5.png)
 
 ### Effect by the Directors
 
@@ -49,4 +45,4 @@ When the number of directors increased, the radiation level gets high. We can se
 
 **Output Directivity Vs number of directors**
 
-![Output Directivity Graph](/Images/9.png)
+![Output Directivity Graph](/Images/6.png)
